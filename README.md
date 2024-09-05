@@ -88,8 +88,8 @@
 <p align="center">
   &nbsp;<img
            width="466"
-    src="https://github-readme-stats.vercel.app/api?username=manikumarreddyu&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=false&count_private=false"
-    alt="manikumarreddyu"
+    src="https://github-readme-stats.vercel.app/api?username= 21A91A6152&show_icons=true&locale=en&theme=radical&hide_border=true&include_all_commits=false&count_private=false"
+    alt="Maridi Manoj Kumar"
   />
 </p>
 
@@ -97,8 +97,8 @@
 <p align="center">
   <img
      width="466"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=manikumarreddyu&theme=radical&hide_border=true"
-    alt="manikumarreddyu"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=21A91A6152&theme=radical&hide_border=true"
+    alt="MANOJKUMAR"
   />
 </p>
 
@@ -114,16 +114,16 @@
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikumarreddyu&layout=compact&langs_count=10&count_private=true&theme=radical&hide_border=true" alt="manikumarreddyu" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21A91A6152&layout=compact&langs_count=10&count_private=true&theme=radical&hide_border=true" alt="maridimanojkumar" />
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=manikumarreddyu&layout=compact&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="manikumarreddyu"" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=21A91A6152&layout=compact&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="maridimanojkumar" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manikumarreddyu&theme=radical&no-frame=false&no-bg=false&margin-w=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=21A91A6152&theme=radical&no-frame=false&no-bg=false&margin-w=1" />
 </p>
 
 <!-- ### 🔝 Top Contributed Repo -->
