@@ -32,7 +32,6 @@
 
 <h3>Programming Languages</h3>
 <p>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54" />
@@ -48,6 +47,7 @@
    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"> 
    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> 
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-%23000000.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </p>
 
 
